@@ -1,4 +1,4 @@
-# Dnsbl Exporter
+# Dnsbl Exporter (Experimental)
 Prometheus exporter for checking domains listed on blacklists
 ## Build and Run
 ### With go
